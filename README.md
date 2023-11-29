@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Learn Microservices with Spring Boot 3 - Chapter 4
+This repository contains the source code of the practical use case described in the book [Learn Microservices with Spring Boot 3 (3rd Edition)](https://link.springer.com/book/10.1007/978-1-4842-9757-5).
+The book follows a pragmatic approach to building a Microservice Architecture. You start with a small monolith and examine the pros and cons that come with a move to microservices.
+
+## Chapter 4 version
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
