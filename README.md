@@ -16,8 +16,6 @@ The main concepts covered in this chapter are:
 * Connecting the frontend to the REST API.
 * Embedding the React application within the Spring Boot JAR file (Tomcat).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Running the app
 
 Requirements:
