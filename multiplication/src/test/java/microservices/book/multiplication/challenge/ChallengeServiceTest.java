@@ -25,7 +25,7 @@ public class ChallengeServiceTest {
                 challengeService.verifyAttempt(attemptDTO);
 
         // then
-        then(resultAttempt.correct()).isTrue();
+        then(resultAttempt.isCorrect()).isTrue();
     }
 
     @Test
@@ -39,6 +39,6 @@ public class ChallengeServiceTest {
                 challengeService.verifyAttempt(attemptDTO);
 
         // then
-        then(resultAttempt.correct()).isFalse();
+        then(resultAttempt.isCorrect()).isFalse();
     }
 }
